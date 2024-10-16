@@ -1,4 +1,4 @@
-# If i could turn back time (yes it's clearly a referece to Cher song)
+# If i could turn back time (yes it's clearly a reference to Cher song)
 
 Inspired by this gist because i needed it and so i made them:https://gist.github.com/alberthdev/1834fc1fa0679f0671fe
 
